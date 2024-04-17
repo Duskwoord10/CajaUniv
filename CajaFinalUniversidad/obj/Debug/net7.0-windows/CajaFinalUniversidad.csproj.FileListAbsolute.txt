@@ -1,0 +1,9 @@
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.csproj.AssemblyReference.cache
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.Form1.resources
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.Form2.resources
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.Recibo.resources
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.csproj.GenerateResource.cache
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.AssemblyInfoInputs.cache
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.AssemblyInfo.cs
+C:\Users\Albert sanfle\Downloads\CajaFinalUniversidad\CajaFinalUniversidad\obj\Debug\net7.0-windows\CajaFinalUniversidad.csproj.CoreCompileInputs.cache
